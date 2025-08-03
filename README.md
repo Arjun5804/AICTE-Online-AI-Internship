@@ -40,6 +40,12 @@ I built a complete machine learning pipeline and deployed it as an easy-to-use *
 
 ---
 
+## 🔗 Download Trained Model
+
+- [Download best_fire_detection_model.pkl](https://drive.google.com/file/d/1NCtuyiYcYxpAkC2ncYulxTPH5FcRD3yG/view?usp=sharing)
+
+---
+
 ## 🧪 Sample Inputs
 
 You can try the following example values in the app:
