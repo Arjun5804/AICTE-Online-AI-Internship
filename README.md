@@ -54,6 +54,7 @@ You can try the following example values in the app:
 |------------|----------------|------|------|--------|------------|
 | 330.0      | 295.0          | 25.0 | 1.1  | 1.0    | high       |
 
+---
 
 ## 🧠 What I Learned
 
